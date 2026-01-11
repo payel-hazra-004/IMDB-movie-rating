@@ -32,7 +32,7 @@ The project is implemented using a **Jupyter Notebook** and focuses on real-worl
   - Movie Title
   - Release Year
   - IMDb Rating
-- **Output File:** `imdb_top_250_movies.csv`
+- **Output File:** `imdb_top_25_movies.csv`
 
 ---
 
